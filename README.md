@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/blakeboprojects/LABURL](https://github.com/BlakeBoProjects/ActiveDirectoryLab/tree/main)
+  - [Active Directory Home Lab](https://github.com/BlakeBoProjects/ActiveDirectoryLab/tree/main)
 
 <h2>🤳Certifications</h2>
 

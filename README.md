@@ -14,7 +14,7 @@
 
 <h2>YouTube Videos</h2>
 
-- [Active Directory Home Lab](https://youtu.be/v58EIkizDns)
+- [Active Directory Home Lab (video)](https://youtu.be/v58EIkizDns)
 
 <!-- 
 this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

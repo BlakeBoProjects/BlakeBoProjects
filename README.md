@@ -1,5 +1,7 @@
 <h1>Hi, I'm Bo. </h1>
 
+This is where I'm posting all my completed home projects. Video versions are available on my [YouTube](https://www.youtube.com/channel/UCB1pCoIVWNTFvnfM83mkpCA) channel. Thanks for stopping by. 
+
 <h2>IT Projects:</h2>
 
   - [Active Directory Home Lab (text and images)](https://github.com/BlakeBoProjects/ActiveDirectoryLab/tree/main)
